@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner.jpg" alt="Hamza Hachoum - Embedded Systems & IoT Engineering Banner" width="100%" />
+
+<br/><br/>
+
 # 👋 Hi, I'm Hamza Hachoum
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=650&lines=State+Engineer+in+Embedded+Systems+%26+IoT;KiCad+Hardware+%26+4-Layer+PCB+Designer;Firmware+Developer+%7C+STM32+%E2%80%A2+FreeRTOS;Industrial+Protocols+%7C+CAN+Bus+%E2%80%A2+Modbus;Edge-to-Cloud+%26+Real-Time+IoT+Architectures)](https://git.io/typing-svg)
