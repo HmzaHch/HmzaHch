@@ -4,8 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-hamza.hachoum%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamza.hachoum@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Tunisia-2B6CB0?style=for-the-badge&logo=google-maps&logoColor=white)](https://goo.gl/maps)
 
-🎓 **State Engineer in Applied Sciences & Technology** (Specializing in Embedded Systems & Internet of Things) from **ISIMG, University of Gabès** (Graduated with **Honors / Mention Bien**, Graduation Project graded **18.00 / 20**).  
-🎯 **Candidate for Master 2 in Advanced Information Systems (SIA)** at **iaelyon School of Management, Jean Moulin Lyon 3 University** (France Excellence Eiffel Scholarship Candidate).
+🎓 **State Engineer in Applied Sciences & Technology** (Specializing in Embedded Systems & Internet of Things) from **ISIMG, University of Gabès** (Graduated with **Honors / Mention Bien**, Graduation Project graded **18.00 / 20**).
 
 ---
 
